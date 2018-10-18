@@ -1,6 +1,6 @@
 {
-  "title": "Petstore API (Node.js)",
-  "description": "elastic.io component for the Petstore API",
+  "title": "MagicTest",
+  "description": "This is my first test",
   "docsUrl": "https://github.com/elasticio/petstore-component-nodejs",
   "credentials": {
     "fields": {
